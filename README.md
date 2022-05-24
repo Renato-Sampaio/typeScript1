@@ -1,0 +1,1 @@
+# typeScrip1
